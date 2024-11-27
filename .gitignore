@@ -1,0 +1,20 @@
+[Libraries]
+Library/
+Temp/
+Obj/
+Logs/
+MemoryCaptures/
+
+# Visual Studio
+.vscode/
+*.csproj
+*.sln
+*.userprefs
+
+# Builds
+Builds/
+
+# Unity Crash Reports
+*.crash
+*.error
+*.upload
